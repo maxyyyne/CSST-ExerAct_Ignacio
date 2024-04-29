@@ -2,7 +2,7 @@
 
 ## Description
 
-[Project Name] is a [brief description of what the project does]. This project [aims/goal/objective] to [purpose].
+This repository is a compilation of activities and exercises designed aid people who needs further knowledge about Machine Learning. It serves as a resource for students and individual in the tech field, providing a diverse range of exercises to achieve a strengthened knowledge. Whether you're a beginner looking to practice fundamental concepts or an experienced individual seeking to challenge yourself, this repository offers a variety of activities to suit your needs.].
 
 ## Table of Contents
 
