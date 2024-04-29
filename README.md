@@ -6,11 +6,8 @@
 
 ## Table of Contents
 
-- [ACTIVITIES]([#installation](https://github.com/maxyyyne/CSST-ExerAct_Ignacio/tree/main/ACTIVITIES))
-- [XERCISES](https://github.com/maxyyyne/CSST-ExerAct_Ignacio/tree/main/EXERCISES)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [ACTIVITIES](https://github.com/maxyyyne/CSST-ExerAct_Ignacio/tree/main/ACTIVITIES)
+- [EXERCISES](https://github.com/maxyyyne/CSST-ExerAct_Ignacio/tree/main/EXERCISES)
 
 ## Installation
 
