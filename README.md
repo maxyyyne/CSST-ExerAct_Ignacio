@@ -1,4 +1,4 @@
-# Project Name
+# ADVANCE MACHINE LEARNING ACTIVITIES AND EXERCISES
 
 ## Description
 
@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [ACTIVITIES]([#installation](https://github.com/maxyyyne/CSST-ExerAct_Ignacio/tree/main/ACTIVITIES))
+- [XERCISES](https://github.com/maxyyyne/CSST-ExerAct_Ignacio/tree/main/EXERCISES)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -26,14 +26,4 @@ To install [Project Name], follow these steps:
     ```
 3. [Additional installation steps, if any]
 
-## Usage
-
-To use [Project Name], follow these steps:
-
-1. [Instructions on how to use the project]
-2. [Additional usage information, if any]
-
-## Folder Structure
-
-The project directory structure is organized as follows:
 
